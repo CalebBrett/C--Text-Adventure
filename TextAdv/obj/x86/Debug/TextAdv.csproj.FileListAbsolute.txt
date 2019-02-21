@@ -1,0 +1,9 @@
+C:\Users\brettc\AppData\Local\Temporary Projects\TextAdv\bin\Debug\TextAdv.exe
+C:\Users\brettc\AppData\Local\Temporary Projects\TextAdv\bin\Debug\TextAdv.pdb
+C:\Users\brettc\AppData\Local\Temporary Projects\TextAdv\obj\x86\Debug\TextAdv.exe
+C:\Users\brettc\AppData\Local\Temporary Projects\TextAdv\obj\x86\Debug\TextAdv.pdb
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\obj\x86\Debug\TextAdv.exe
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\obj\x86\Debug\TextAdv.pdb
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\obj\x86\Debug\TextAdv.csprojResolveAssemblyReference.cache
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\bin\Debug\TextAdv.exe
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\bin\Debug\TextAdv.pdb

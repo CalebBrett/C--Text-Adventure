@@ -1,0 +1,4 @@
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\bin\Release\TextAdv.exe
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\bin\Release\TextAdv.pdb
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\obj\x86\Release\TextAdv.exe
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\TextAdv\TextAdv\obj\x86\Release\TextAdv.pdb
